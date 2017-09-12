@@ -47,7 +47,7 @@ public class ScrapFlikartWatches {
 		int scrollValue = 60;
 		
 		// k --> is number of Pages: Range [1 to No.ofWebpages in the Result)
-		for (int k = 26; k < 68; k++) {
+		for (int k = 1; k < 68; k++) {
 			Thread.sleep(5000);
 			
 			//Code to press the Next button 
